@@ -1,3 +1,0 @@
-Name:poojitha
-Age: 22
-Stream: JAVA
